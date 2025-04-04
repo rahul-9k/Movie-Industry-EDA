@@ -17,5 +17,5 @@ This project presents an exploratory data analysis (EDA) of the movie industry, 
 
 ## How to View
 - Open `movie_industry_eda.ipynb` in Jupyter Notebook locally after cloning this repository.
-- View the notebook online via [nbviewer](https://nbviewer.jupyter.org/) by pasting this URL: `https://github.com/yourusername/Movie-Industry-EDA/blob/main/movie_industry_eda.ipynb` (update with your actual repo link).
+- View the notebook online via [nbviewer](https://nbviewer.jupyter.org/) by pasting this URL: 'https://nbviewer.org/github/rahul-9k/Movie-Industry-EDA/blob/main/movie_industry_eda.ipynb' (update with your actual repo link).
 - Requirements: Python 3.x, Pandas, Matplotlib, Seaborn.
